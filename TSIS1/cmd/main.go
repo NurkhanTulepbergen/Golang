@@ -1,7 +1,7 @@
-package cmd
+package main
 
 import (
-	"TSIS1/internal"
+	"TSIS1/TSIS1/internal"
 	"log"
 )
 
